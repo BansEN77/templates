@@ -22,6 +22,7 @@ Rule1 on TuyaReceived#data=55AA000000010101 do Power ON ENDON
 Rule1 1
 ```
 ```console
+Module 54
 SetOption59 1
 SetOption66 1
 PowerOnState 0
